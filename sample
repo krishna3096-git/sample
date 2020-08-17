@@ -1,0 +1,8 @@
+print('hello') # to print //python 
+ x=1           # assigning value to a variable 
+ print(x)      # output: --> 1
+  a=1
+  b=2
+  C=a+b
+  print(C)     # prints the value of 'C'     
+  ' # ' ----> used for  comennts
